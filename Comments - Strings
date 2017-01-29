@@ -1,0 +1,10 @@
+String Array Tools -
+
+This is a very good start so far.  There are some unfinished pieces here.  Clean those up and re-post, please!
+
+(1) In main(), you call the sumArray() method.  But you have (correcly) commented out that method.  You should also remove the call to it in main().
+(2) Your getMax() and getMin() methods work well.  But getMaxIndex() and getMinIndex() return the largest and smallest items, not their locations. Please fix that.  I can work with you if you need it, or ask a friend.
+
+Your code actually doesn't compile because of issue #1.  And when it does, it gives incorrect results because of issue #2.
+
+Fix these and you'll be in good shape.
