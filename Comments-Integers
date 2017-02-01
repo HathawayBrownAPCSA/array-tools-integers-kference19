@@ -1,0 +1,13 @@
+Good work on the integer array tools!
+
+The four new methods all work well.
+
+One thing: your javadoc comments aren't always clear or 100% accurate.  
+For instance, your comment on the getMinIndex method says "Find the min of the index"
+  But what is the index?  And what would its min be?
+  Actually, what that method does is finds the index of the smallest item in the array.
+  Your comments should be clear about details like that.
+  
+Overall, however, this is some very good work - some of your best so far this year!
+
+10/10
